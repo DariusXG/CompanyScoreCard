@@ -34,8 +34,3 @@ Include one or two screenshots of your dashboard here to give viewers a preview 
 
 
 
-## About Me
-I'm **DariusXG**, a data analyst with 3+ years of experience specializing in Power BI and business intelligence solutions. Let's connect on [LinkedIn](#) or explore my other projects on [GitHub](https://github.com/DariusXG).
-
-
-
