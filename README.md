@@ -29,7 +29,6 @@ To use this project:
 4. Refresh the data connection and explore the dashboard.
 
 ## Screenshots
-Include one or two screenshots of your dashboard here to give viewers a preview of your work. Example:  
 ![CompanyScorecardProject](https://github.com/user-attachments/assets/23b0f415-c947-458c-8573-06c993e5c500)
 
 
